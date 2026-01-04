@@ -1,4 +1,4 @@
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/icarrillog/)](https://www.linkedin.com/in/icarrillog/) [![Github Badge](https://img.shields.io/badge/-Github-242A2D?style=flat&logo=Github&logoColor=white&link=https://github.com/icg-dev/)](https://github.com/icg-dev/) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link="")](#) ![](https://komarev.com/ghpvc/?username=icg-dev)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/icarrillog/)](https://www.linkedin.com/in/icarrillog/) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](#) [![Instagram](https://img.shields.io/badge/-instagram-D42F8A?style=flat&logo=instagram&logoColor=white&link="")](#) ![](https://komarev.com/ghpvc/?username=icg-dev)
 
 ![banner-gh](https://github.com/user-attachments/assets/420e20c5-401f-4353-8c96-0a12a23f3ca0)
 
