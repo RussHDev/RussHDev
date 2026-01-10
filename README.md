@@ -7,7 +7,9 @@
 
 ## About Me
 
-<p></p>I'm Iván Carrillo García, also known as RussH. I'm passionate about programming and technology. I really enjoy solving both simple and complex problems. I've always had a knack for finding creative solutions, which has led me to learn new things every day, constantly striving to improve my skills and expand my knowledge of programming and technology.</p>
+I'm Iván Carrillo García, also known as RussH. I'm passionate about programming and technology. I really enjoy solving both simple and complex problems. I've always had a knack for finding creative solutions, which has led me to learn new things every day, constantly striving to improve my skills and expand my knowledge of programming and technology.
+
+I currently work using a code generator called GeneXus, which my company, which has its own development capabilities, has been using for years. However, I'm always looking to complement and add Python functionalities to our projects, thus combining my work with my passion.
   
 ## ⚡My Skills
 
